@@ -6,4 +6,4 @@
 
 ### My top languages
 
-![AndrisBorbas's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrisBorbas&layout=compact&theme=dark)
+![AndrisBorbas's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrisBorbas&layout=compact&hide_border=true&theme=dark)
