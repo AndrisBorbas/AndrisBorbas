@@ -4,8 +4,8 @@
 
 ### My GitHub stats
 
-![AndrisBorbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrisBorbas&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![AndrisBorbas's GitHub stats](https://raw.githubusercontent.com/AndrisBorbas/github-stats/master/generated/overview.svg)
 
 ### My top languages
 
-![AndrisBorbas's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrisBorbas&layout=compact&hide_border=true&theme=dark)
+![AndrisBorbas's top langs](https://raw.githubusercontent.com/AndrisBorbas/github-stats/master/generated/languages.svg)
