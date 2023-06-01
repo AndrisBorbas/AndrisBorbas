@@ -5,10 +5,14 @@
 ## My projects
 
 - ### [QuickCommands](https://www.unrealengine.com/marketplace/en-US/product/quickcommands) - [https://github.com/AndrisBorbas/QuickCommands](https://github.com/AndrisBorbas/QuickCommands)
-  - Unreal Engine 4 / 5 - C++
+  - C++ - Unreal Engine 5 / 4
+- ### [Smitedle.net](https://smitedle.net) - [https://github.com/AndrisBorbas/destiny-launcher](https://github.com/AndrisBorbas/destiny-launcher)
+  - Web - Next.js 13 (React 18), Tailwind CSS, TypeScript
 - ### [DestinyLauncher.net](https://destinylauncher.net) - [https://github.com/AndrisBorbas/destiny-launcher](https://github.com/AndrisBorbas/destiny-launcher)
   - Web - Next.js 12 (React), Tailwind CSS, MDX, TypeScript
-- ### [XIX. Simonyi Konferencia](https://konferencia.simonyi.bme.hu) - [https://github.com/simonyiszk/konf-2022-web](https://github.com/simonyiszk/konf-2022-web)
+- ### [XX. Simonyi Konferencia](https://konferencia.simonyi.bme.hu/2023) - [https://github.com/simonyiszk/konf-web-2023](https://github.com/simonyiszk/konf-web-2023)
+  - Web - Next.js 13 (React), Tailwind CSS, Contentful, TypeScript
+- ### [XIX. Simonyi Konferencia](https://konferencia.simonyi.bme.hu/2022) - [https://github.com/simonyiszk/konf-2022-web](https://github.com/simonyiszk/konf-2022-web)
   - Web - Gatsby 4 (React), Tailwind CSS, Contentful, TypeScript
 - ### [18. Simonyi Konferencia](https://konferencia.simonyi.bme.hu/2021) - [https://github.com/simonyiszk/konf-2021-web](https://github.com/simonyiszk/konf-2021-web)
   - Web - Next.js 12 (React), Tailwind CSS, Contentful, TypeScript
