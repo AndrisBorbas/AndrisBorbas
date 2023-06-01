@@ -6,7 +6,7 @@
 
 - ### [QuickCommands](https://www.unrealengine.com/marketplace/en-US/product/quickcommands) - [https://github.com/AndrisBorbas/QuickCommands](https://github.com/AndrisBorbas/QuickCommands)
   - C++ - Unreal Engine 5 / 4
-- ### [Smitedle.net](https://smitedle.net) - [https://github.com/AndrisBorbas/destiny-launcher](https://github.com/AndrisBorbas/destiny-launcher)
+- ### [Smitedle.net](https://smitedle.net) - [https://github.com/AndrisBorbas/smitedle](https://github.com/AndrisBorbas/smitedle)
   - Web - Next.js 13 (React 18), Tailwind CSS, TypeScript
 <img src="https://github.com/AndrisBorbas/AndrisBorbas/assets/17726287/7d0c91e7-b49a-4551-8cff-6ff0fa80b536" width="600">
 
