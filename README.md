@@ -14,15 +14,15 @@
   - Web - Next.js 12 (React), Tailwind CSS, MDX, TypeScript
 <img src="https://github.com/AndrisBorbas/AndrisBorbas/assets/17726287/4668a15c-1e60-4570-9647-23eac8f2fa1f" width="600">
 
-- ### [XX. Simonyi Konferencia](https://konferencia.simonyi.bme.hu) - [https://github.com/simonyiszk/konf-web-2023](https://github.com/simonyiszk/konf-web-2023)
+- ### [XX. Simonyi Konferencia](https://2023.konferencia.simonyi.bme.hu) - [https://github.com/simonyiszk/konf-web-2023](https://github.com/simonyiszk/konf-web-2023)
   - Web - Next.js 13 (React), Tailwind CSS, Contentful, TypeScript
 <img src="https://github.com/AndrisBorbas/AndrisBorbas/assets/17726287/5c79bae6-9c43-48ed-a680-dea03e7f4f99" width="600">
 
-- ### [XIX. Simonyi Konferencia](https://konferencia.simonyi.bme.hu/2022) - [https://github.com/simonyiszk/konf-2022-web](https://github.com/simonyiszk/konf-2022-web)
+- ### [XIX. Simonyi Konferencia](https://2022.konferencia.simonyi.bme.hu) - [https://github.com/simonyiszk/konf-2022-web](https://github.com/simonyiszk/konf-2022-web)
   - Web - Gatsby 4 (React), Tailwind CSS, Contentful, TypeScript
 <img src="https://github.com/AndrisBorbas/AndrisBorbas/assets/17726287/b8948bc0-9021-48b3-b984-6c5bcec52ff4" width="600">
 
-- ### [18. Simonyi Konferencia](https://konferencia.simonyi.bme.hu/2021) - [https://github.com/simonyiszk/konf-2021-web](https://github.com/simonyiszk/konf-2021-web)
+- ### [18. Simonyi Konferencia](https://2021.konferencia.simonyi.bme.hu) - [https://github.com/simonyiszk/konf-2021-web](https://github.com/simonyiszk/konf-2021-web)
   - Web - Next.js 12 (React), Tailwind CSS, Contentful, TypeScript
 <img src="https://github.com/AndrisBorbas/AndrisBorbas/assets/17726287/583b41ff-ef24-425d-9732-499b6ea027e0" width="600">
 
