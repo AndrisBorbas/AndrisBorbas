@@ -6,6 +6,10 @@
 
 - ### [QuickCommands](https://www.unrealengine.com/marketplace/en-US/product/quickcommands) - [https://github.com/AndrisBorbas/QuickCommands](https://github.com/AndrisBorbas/QuickCommands)
   - C++ - Unreal Engine 5 / 4
+- ### [OwlSector.net](https://owlsector.net/?utm_source=github-profile) - [https://github.com/AndrisBorbas/d2-knowledge](https://github.com/AndrisBorbas/d2-knowledge)
+  - Web - Next.js 16 (React 19), Tailwind CSS, Typescript
+<img src="https://github.com/user-attachments/assets/c3a58596-6ccb-43d7-95ae-ddba5cb9c2f2" width="600" />
+
 - ### [Smitedle.net](https://smitedle.net) - [https://github.com/AndrisBorbas/smitedle](https://github.com/AndrisBorbas/smitedle)
   - Web - Next.js 13 (React 18), Tailwind CSS, TypeScript
 <img src="https://github.com/AndrisBorbas/AndrisBorbas/assets/17726287/7d0c91e7-b49a-4551-8cff-6ff0fa80b536" width="600">
